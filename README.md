@@ -1,6 +1,6 @@
 # Huffman algorithm - Main menu
 ![image](https://user-images.githubusercontent.com/57709260/149948601-b8dbdb67-d83c-424b-a765-df8ce1f0dc45.png)
-#
+# Compression process and Results
 ![image](https://user-images.githubusercontent.com/57709260/149948819-b32a175b-da54-4595-a010-aa8b1fcaab5c.png)
 #
 ![image](https://user-images.githubusercontent.com/57709260/149948979-3ff104bc-90ef-44be-97d3-24cf9bc7f4d3.png)
